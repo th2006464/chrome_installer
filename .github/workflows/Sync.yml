@@ -25,9 +25,12 @@ jobs:
         git remote add upstream https://github.com/Bush2021/chrome_installer.git
         git fetch upstream
 
+    - name: Checkout dev branch
+      run: |
+        git checkout -b dev origin/dev || git checkout dev
+
     - name: Merge upstream changes
       run: |
-        git checkout dev
         git merge upstream/dev --allow-unrelated-histories || true
 
     - name: Push changes
