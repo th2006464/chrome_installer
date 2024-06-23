@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "128.0.6553.0",
-        "size": 110677552,
-        "sha1": "fe458086235bda93026c290485905806655fe037",
-        "sha256": "f6a6257bb6b4af96150dfc1c31712e9fbdb7578ac489b714662a6ab4746fb22f",
+        "version": "128.0.6553.1",
+        "size": 140759600,
+        "sha1": "8b67a69a799d20b954462e2e9b10e5bd35b15462",
+        "sha256": "001d6faf22b3dd88309d4d8d4d098c7d468a47f58436a46a29cd68e6d87be0fd",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adc7qlbdiu2dilwyd7n6xs3uzorq_128.0.6553.0/128.0.6553.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adc7qlbdiu2dilwyd7n6xs3uzorq_128.0.6553.0/128.0.6553.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/adc7qlbdiu2dilwyd7n6xs3uzorq_128.0.6553.0/128.0.6553.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/adc7qlbdiu2dilwyd7n6xs3uzorq_128.0.6553.0/128.0.6553.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/adc7qlbdiu2dilwyd7n6xs3uzorq_128.0.6553.0/128.0.6553.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/adc7qlbdiu2dilwyd7n6xs3uzorq_128.0.6553.0/128.0.6553.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/cveblfmbcma4onfldobjpsmt6a_128.0.6553.1/128.0.6553.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/cveblfmbcma4onfldobjpsmt6a_128.0.6553.1/128.0.6553.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/cveblfmbcma4onfldobjpsmt6a_128.0.6553.1/128.0.6553.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/cveblfmbcma4onfldobjpsmt6a_128.0.6553.1/128.0.6553.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/cveblfmbcma4onfldobjpsmt6a_128.0.6553.1/128.0.6553.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/cveblfmbcma4onfldobjpsmt6a_128.0.6553.1/128.0.6553.1_chrome_installer.exe"
         ]
     }
 }
