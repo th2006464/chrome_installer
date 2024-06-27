@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "128.0.6561.0",
-        "size": 110892592,
-        "sha1": "4371713731119f84a11f3c7d169a7ebc120b288b",
-        "sha256": "0b82605a46fb163b6eedc28a742a757b75cd6d2f0ba952df758cae0f38e1d6cb",
+        "version": "128.0.6561.1",
+        "size": 140803448,
+        "sha1": "e95c3cc7d542ff98908c3335e9243f121594703d",
+        "sha256": "ddb105ba0ad9069713a0a510946d4850068da87afb57d0b1d19f4a2b453bab48",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/bqfjcpqlp352l6stjbugpew5qm_128.0.6561.0/128.0.6561.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/bqfjcpqlp352l6stjbugpew5qm_128.0.6561.0/128.0.6561.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/bqfjcpqlp352l6stjbugpew5qm_128.0.6561.0/128.0.6561.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/bqfjcpqlp352l6stjbugpew5qm_128.0.6561.0/128.0.6561.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/bqfjcpqlp352l6stjbugpew5qm_128.0.6561.0/128.0.6561.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/bqfjcpqlp352l6stjbugpew5qm_128.0.6561.0/128.0.6561.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/khpdpasjct6mchw3f6zwwrv3pu_128.0.6561.1/128.0.6561.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/khpdpasjct6mchw3f6zwwrv3pu_128.0.6561.1/128.0.6561.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/khpdpasjct6mchw3f6zwwrv3pu_128.0.6561.1/128.0.6561.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/khpdpasjct6mchw3f6zwwrv3pu_128.0.6561.1/128.0.6561.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/khpdpasjct6mchw3f6zwwrv3pu_128.0.6561.1/128.0.6561.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/khpdpasjct6mchw3f6zwwrv3pu_128.0.6561.1/128.0.6561.1_chrome_installer.exe"
         ]
     }
 }
