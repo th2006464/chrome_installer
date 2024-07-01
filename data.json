@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "128.0.6568.0",
-        "size": 110976192,
-        "sha1": "e5b533d9358c64c13175c47ea97b07c9c5c4ca0d",
-        "sha256": "faa5fce03ce1cbcb0224fb40cf2c165afe0a8e35a70f8ce5ecb7fe8600d8bdd8",
+        "version": "128.0.6568.1",
+        "size": 140945088,
+        "sha1": "189a14f9a842249c61ce8a6b58a12c270e54fe85",
+        "sha256": "d4f45615b802d7aa1672ae95ce629f031237cb81b488cef3276f0c79850aa5f0",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/bwqhuksikwuhp47b4iue5ota7a_128.0.6568.0/128.0.6568.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/bwqhuksikwuhp47b4iue5ota7a_128.0.6568.0/128.0.6568.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/bwqhuksikwuhp47b4iue5ota7a_128.0.6568.0/128.0.6568.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/bwqhuksikwuhp47b4iue5ota7a_128.0.6568.0/128.0.6568.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/bwqhuksikwuhp47b4iue5ota7a_128.0.6568.0/128.0.6568.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/bwqhuksikwuhp47b4iue5ota7a_128.0.6568.0/128.0.6568.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe"
         ]
     }
 }
