@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "128.0.6568.1",
-        "size": 140945088,
-        "sha1": "189a14f9a842249c61ce8a6b58a12c270e54fe85",
-        "sha256": "d4f45615b802d7aa1672ae95ce629f031237cb81b488cef3276f0c79850aa5f0",
+        "version": "128.0.6569.0",
+        "size": 110995648,
+        "sha1": "6cf2b135d2ebd422432e88498a67df55df269ad0",
+        "sha256": "fcd3683fa88a0bb5e9d68883adc39994c40b0e1b0bd27c0dd4c7e4259bc2e484",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/e2yxptj2t4jn3i5urawzino6na_128.0.6568.1/128.0.6568.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/admvnnkddfxla4rpguvmn3qgbxpq_128.0.6569.0/128.0.6569.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/admvnnkddfxla4rpguvmn3qgbxpq_128.0.6569.0/128.0.6569.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/admvnnkddfxla4rpguvmn3qgbxpq_128.0.6569.0/128.0.6569.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/admvnnkddfxla4rpguvmn3qgbxpq_128.0.6569.0/128.0.6569.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/admvnnkddfxla4rpguvmn3qgbxpq_128.0.6569.0/128.0.6569.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/admvnnkddfxla4rpguvmn3qgbxpq_128.0.6569.0/128.0.6569.0_chrome_installer.exe"
         ]
     }
 }
