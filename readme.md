@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/opamoy/chrome_installer/releases>
 
 最后检测更新时间
-2024-07-06 02:24:54 (UTC-4)
+2024-07-06 08:34:03 (UTC-4)
 
 
 ## 目录
@@ -58,8 +58,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/kianaq6wsw73xkehzrb75ksmpe_128.0.6579.0/128.0.6579.0_chrome_installer.exe](https://dl.google.com/release2/chrome/kianaq6wsw73xkehzrb75ksmpe_128.0.6579.0/128.0.6579.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：128.0.6578.1  
-**文件大小**：134.5 MB  
-**校验值（Sha256）**：3c2cef8148e83bfff490d77fcc3070bf1e4209fb197c5ea667c6f4df75246607  
-**下载链接**：[https://dl.google.com/release2/chrome/hxn5amif5mutfrzyryltncik7i_128.0.6578.1/128.0.6578.1_chrome_installer.exe](https://dl.google.com/release2/chrome/hxn5amif5mutfrzyryltncik7i_128.0.6578.1/128.0.6578.1_chrome_installer.exe)  
+**最新版本**：128.0.6579.0  
+**文件大小**：105.84 MB  
+**校验值（Sha256）**：d5cc57e8ebf8243e6e3df4c15c84c3482c738020c22aaeba88db793c9be77564  
+**下载链接**：[https://dl.google.com/release2/chrome/oq5jserkvluuy2qo3okzl5zscy_128.0.6579.0/128.0.6579.0_chrome_installer.exe](https://dl.google.com/release2/chrome/oq5jserkvluuy2qo3okzl5zscy_128.0.6579.0/128.0.6579.0_chrome_installer.exe)  
 
