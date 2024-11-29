@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/opamoy/chrome_installer/releases>
 
 最后检测更新时间
-2024-11-29 02:32:37 (UTC-4)
+2024-11-29 08:46:42 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/nq65kzdtc2diabsobaf4dswfn4_133.0.6847.2/133.0.6847.2_chrome_installer.exe](https://dl.google.com/release2/chrome/nq65kzdtc2diabsobaf4dswfn4_133.0.6847.2/133.0.6847.2_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：133.0.6865.1  
-**文件大小**：118.7 MB  
-**校验值（Sha256）**：3898692c31c04dfe7fed1786154fecfa8fde5b06631f68c288bc15204f9add2a  
-**下载链接**：[https://dl.google.com/release2/chrome/mcqyd3ujzzepc7bv2b6yjshyre_133.0.6865.1/133.0.6865.1_chrome_installer.exe](https://dl.google.com/release2/chrome/mcqyd3ujzzepc7bv2b6yjshyre_133.0.6865.1/133.0.6865.1_chrome_installer.exe)  
+**最新版本**：133.0.6866.1  
+**文件大小**：118.91 MB  
+**校验值（Sha256）**：96f7babafeb4b4c27a5046acba746ff3ce81b8209226da3ec9848d1c09d5d33d  
+**下载链接**：[https://dl.google.com/release2/chrome/gpwxppuyfmg46wf4lefccvotly_133.0.6866.1/133.0.6866.1_chrome_installer.exe](https://dl.google.com/release2/chrome/gpwxppuyfmg46wf4lefccvotly_133.0.6866.1/133.0.6866.1_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：133.0.6865.0  
-**文件大小**：111.72 MB  
-**校验值（Sha256）**：275d0a3b09761e6e0f89033cbc21c194f1053c04641b62f1e15931d731da7cd9  
-**下载链接**：[https://dl.google.com/release2/chrome/j5fsnkszujeo45kg4uv33qjbti_133.0.6865.0/133.0.6865.0_chrome_installer.exe](https://dl.google.com/release2/chrome/j5fsnkszujeo45kg4uv33qjbti_133.0.6865.0/133.0.6865.0_chrome_installer.exe)  
+**最新版本**：133.0.6866.0  
+**文件大小**：111.68 MB  
+**校验值（Sha256）**：ae7778e5697a536b454a0520339f35e22dbf0798aeef347d9919589952724f10  
+**下载链接**：[https://dl.google.com/release2/chrome/actx5el5jrrb4z3wj2k67cvidyzq_133.0.6866.0/133.0.6866.0_chrome_installer.exe](https://dl.google.com/release2/chrome/actx5el5jrrb4z3wj2k67cvidyzq_133.0.6866.0/133.0.6866.0_chrome_installer.exe)  
 
