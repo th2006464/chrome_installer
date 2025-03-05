@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/opamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-03-04 21:13:45 (UTC-4)
+2025-03-05 02:22:10 (UTC-4)
 
 
 ## 目录
